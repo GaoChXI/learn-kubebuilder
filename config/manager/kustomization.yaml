@@ -5,4 +5,4 @@ kind: Kustomization
 images:
 - name: controller
   newName: chiso/test
-  newTag: cronjob
+  newTag: cronjob2
